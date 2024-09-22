@@ -1,0 +1,705 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"wh",
+				"white"
+			],
+			[
+				"lin",
+				"linear-gradient()"
+			],
+			[
+				"h",
+				"h2"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"bor",
+				"border-image"
+			],
+			[
+				"bo",
+				"border-spacing"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"p",
+				"padding-top"
+			],
+			[
+				"s",
+				"studentage"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"getS",
+				"getStudentAge"
+			],
+			[
+				"St",
+				"Student"
+			],
+			[
+				"Stu",
+				"Student"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"st",
+				"studentage"
+			],
+			[
+				"imp",
+				"implements"
+			],
+			[
+				"stu",
+				"studentage"
+			],
+			[
+				"stud",
+				"studentage"
+			],
+			[
+				"I",
+				"IdComare"
+			],
+			[
+				"ar",
+				"arg2"
+			],
+			[
+				"E",
+				"em"
+			],
+			[
+				"a",
+				"arg"
+			],
+			[
+				"com",
+				"compareTo"
+			],
+			[
+				"r",
+				"return"
+			],
+			[
+				"c",
+				"Circle"
+			],
+			[
+				"de",
+				"Demo1"
+			],
+			[
+				"mai",
+				"main"
+			],
+			[
+				"su",
+				"super"
+			],
+			[
+				"fol",
+				"folderCount"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"fil",
+				"fileCount"
+			],
+			[
+				"m",
+				"m1"
+			],
+			[
+				"n",
+				"name"
+			],
+			[
+				"he",
+				"header"
+			],
+			[
+				"b",
+				"button"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"ab",
+				"abstract"
+			],
+			[
+				"td",
+				"td"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"lim",
+				"limegreen"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"l",
+				"li"
+			],
+			[
+				"u",
+				"ul"
+			],
+			[
+				"yell",
+				"yellowgreen"
+			],
+			[
+				"bl",
+				"blue"
+			],
+			[
+				"t",
+				"top"
+			],
+			[
+				"no",
+				"normal"
+			],
+			[
+				"an",
+				"animation"
+			],
+			[
+				"ani",
+				"animation-duration"
+			],
+			[
+				"anim",
+				"animation-name"
+			],
+			[
+				"gre",
+				"green"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"hea",
+				"header"
+			],
+			[
+				"boc",
+				"background-color"
+			],
+			[
+				"qu",
+				"aquamarine"
+			],
+			[
+				"si",
+				"cornsilk"
+			],
+			[
+				"ce",
+				"cellspacing"
+			],
+			[
+				"margin-",
+				"margin-right"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"line",
+				"linear-gradient()"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"ligh",
+				"lightpink"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"margi",
+				"margin-right"
+			],
+			[
+				"pi",
+				"lightpink"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"pri",
+				"prime"
+			],
+			[
+				"pr",
+				"preparePakoda"
+			],
+			[
+				"prepar",
+				"prepareHalwa"
+			],
+			[
+				"pre",
+				"prepareTomatoCurry"
+			],
+			[
+				"ve",
+				"VegShop"
+			],
+			[
+				"sm",
+				"sms"
+			],
+			[
+				"Ca",
+				"Cat"
+			],
+			[
+				"obj",
+				"obj2"
+			],
+			[
+				"dri",
+				"drive"
+			],
+			[
+				"im",
+				"implements"
+			],
+			[
+				"ta",
+				"takeVideo"
+			],
+			[
+				"ca",
+				"Car"
+			],
+			[
+				"boo",
+				"Book"
+			],
+			[
+				"get",
+				"getCircumference"
+			],
+			[
+				"num",
+				"Number"
+			],
+			[
+				"inc",
+				"increaseTemp"
+			],
+			[
+				"ge",
+				"getArea"
+			],
+			[
+				"brea",
+				"Breadth"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "package com.jsp.shoppingcart.controller;\n\nimport java.util.ArrayList;\nimport java.util.List;\n\nimport javax.servlet.http.HttpSession;\n\nimport org.springframework.beans.factory.annotation.Autowired;\nimport org.springframework.stereotype.Controller;\nimport org.springframework.web.bind.annotation.ModelAttribute;\nimport org.springframework.web.bind.annotation.RequestMapping;\nimport org.springframework.web.servlet.ModelAndView;\n\nimport com.jsp.shoppingcart.dao.CartDao;\nimport com.jsp.shoppingcart.dao.CustomerDao;\nimport com.jsp.shoppingcart.dao.OrdersDao;\nimport com.jsp.shoppingcart.dao.ProductDao;\nimport com.jsp.shoppingcart.dto.Cart;\nimport com.jsp.shoppingcart.dto.Customer;\nimport com.jsp.shoppingcart.dto.Item;\nimport com.jsp.shoppingcart.dto.Orders;\nimport com.jsp.shoppingcart.dto.Product;\n\n@Controller\npublic class OrdersController {\n\n\t@Autowired\n\tOrdersDao dao;\n\n\t@Autowired\n\tCustomerDao cdao;\n\n\t@Autowired\n\tProductDao pdao;\n\n\t@Autowired\n\tCartDao cartdao;\n\n\t@RequestMapping(\"/addorder\")\n\tpublic ModelAndView addOrder() {\n\t\tOrders o = new Orders();\n\t\tModelAndView mav = new ModelAndView();\n\t\tmav.addObject(\"ordersobj\", o);\n\t\tmav.setViewName(\"ordersform\");\n\t\treturn mav;\n\n\t}\n\n\t@RequestMapping(\"/saveorder\")\n\tpublic ModelAndView saveOrder(@ModelAttribute(\"ordersobj\") Orders o, HttpSession session) {\n\t\tCustomer c = (Customer) session.getAttribute(\"customerinfo\");\n\t\tCustomer customer = cdao.findCustomerById(c.getId());\n\t\tCart cart = customer.getCart();\n\n\t\tList<Item> items = cart.getItems();\n\n\t\tList<Item> itemsList = new ArrayList<>();\n\n\t\tList<Item> itemswithGreaterQuantity = new ArrayList<>();\n\t\tfor (Item i : items) {\n\t\t\tProduct p = pdao.findProductById(i.getP_id());\n\t\t\tif (i.getQuantity() < p.getStock()) {\n\t\t\t\titemsList.add(i);\n\t\t\t\tp.setStock(p.getStock() - i.getQuantity());\n\n\t\t\t\tpdao.updateProduct(p);\n\t\t\t} else {\n\t\t\t\titemswithGreaterQuantity.add(i);\n\t\t\t}\n\t\t}\n\n\t\to.setItems(itemsList);\n\t\tdouble totalpriceoforder = 0;\n\t\t\n\t\tfor (Item i : itemsList) {\n\t\t\ttotalpriceoforder = totalpriceoforder + i.getPrice();\n\t\t}\n\t\t\n\t\t\n\t\to.setTotalprice(totalpriceoforder);\n\t\t\n\t\t\n\t\tcart.setItems(itemswithGreaterQuantity);\n\n\t\tdouble totalprice = 0;\n\t\tfor (Item i : itemswithGreaterQuantity) {\n\t\t\ttotalprice = totalprice + i.getPrice();\n\t\t}\n\n\t\tcart.setTotalprice(totalprice);\n\n\t\tList<Orders> orders = customer.getOrders();\n\t\tif (orders.size() > 0) {\n\t\t\torders.add(o);\n\t\t\tcustomer.setOrders(orders);\n\t\t} else {\n\t\t\tList<Orders> orders1 = new ArrayList<>();\n\t\t\torders1.add(o);\n\t\t\tcustomer.setOrders(orders1);\n\t\t}\n\n\t\tcustomer.setCart(cart);\n\t\tcartdao.updateCart(cart);\n\t\tdao.saveOrders(o);\n\t\tcdao.updateCustomer(customer);\n\n\t\tModelAndView mav = new ModelAndView();\n\t\tmav.addObject(\"msg\", \"order placed successfully\");\n\t\tmav.addObject(\"orderdetails\", o);\n\t\tmav.setViewName(\"CustomerBill\");\n\n\t\treturn mav;\n\n\t}\n}\n",
+			"file": "/C/Users/Hp/AppData/Local/Temp/Rar$DI39.220/OrdersController.java",
+			"file_size": 2920,
+			"file_write_time": 119599866000000000,
+			"settings":
+			{
+				"buffer_size": 2805,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 164.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/webDevlop/Html/ProductController.java",
+		"/C/Users/Hp/AppData/Local/Temp/Rar$DI02.920/MerchantController.java",
+		"/C/Users/Hp/AppData/Local/Temp/Rar$DI95.390/CustomerDao.java",
+		"/C/Users/Hp/AppData/Local/Temp/Rar$DI94.692/Customer.java",
+		"/C/Users/Hp/AppData/Local/Temp/Rar$DI80.898/Customer.java",
+		"/C/Users/Hp/AppData/Local/Temp/Rar$DI51.367/Customer.java",
+		"/D/webDevlop/project1",
+		"/D/webDevlop/Html/frame one.html",
+		"/D/webDevlop/javaScript1/05_userInput.html",
+		"/D/webDevlop/CSS/01_CSS_StyleSheet.html",
+		"/D/webDevlop/Bootstrap/01_BS_demo.html",
+		"/D/webDevlop/index2.html",
+		"/D/webDevlop/style.css",
+		"/D/webDevlop/CSS/CSS practice.html",
+		"/D/webDevlop/CSS/03_CSS_register.html",
+		"/D/webDevlop/Harry/practice.html",
+		"/D/webDevlop/Html/Formtag.html",
+		"/D/webDevlop/CSS/05_CSS t2.html",
+		"/D/webDevlop/CSS/pooja.css",
+		"/D/webDevlop/CSS/index.html",
+		"/D/webDevlop/CSS/index.css",
+		"/D/webDevlop/CSS/02_CSS_Selector.html",
+		"/D/webDevlop/CSS/CSS_Animation.html",
+		"/D/webDevlop/CSS/CSS_segmanticTag.html",
+		"/D/webDevlop/Bootstrap/06_Navbar 1.html",
+		"/D/webDevlop/Bootstrap/05_navbar.html",
+		"/D/webDevlop/Bootstrap/04_card.html",
+		"/D/webDevlop/Html/RegistrationForm.html",
+		"/D/webDevlop/Html/table.html",
+		"/D/webDevlop/Html/02_HTML_MarqueeTag.html",
+		"/D/webDevlop/Html/02_HTML_ButtonTag.html",
+		"/D/webDevlop/Bootstrap/02_bs navbar.html",
+		"/D/webDevlop/CSS/04_CSS_Translate.html",
+		"/D/webDevlop/CSS/CSS_layout.html",
+		"/C/Users/Hp/Downloads/mysql-connector-java-8.0.26/src/generated/java/com/mysql/cj/x/protobuf/MysqlxExpr.java",
+		"/D/webDevlop/CSS/CSS pooja.html",
+		"/D/webDevlop/JAVAscript/js_DOM1.html",
+		"/D/webDevlop/JAVAscript/myntra.html",
+		"/D/webDevlop/JAVAscript/js.datatype.html",
+		"/D/webDevlop/javaScript1/09_js_ArrayMethod",
+		"/D/webDevlop/javaScript1/Array.js",
+		"/D/webDevlop/JAVAscript/a.js",
+		"/D/webDevlop/JAVAscript/06_js_DOM.html",
+		"/D/webDevlop/index.html/single.html",
+		"/D/webDevlop/JAVAscript/shopping.js",
+		"/D/webDevlop/JAVAscript/js_Tasklist.html",
+		"/D/webDevlop/Harry/project1.html",
+		"/D/webDevlop/JAVAscript/task.js",
+		"/D/webDevlop/Html/calculator.html",
+		"/D/webDevlop/JAVAscript/shopping Cart.html",
+		"/D/webDevlop/JAVAscript/task.html",
+		"/D/webDevlop/Css_style.css/style.css",
+		"/D/webDevlop/Harry/mediaplayer.html",
+		"/D/webDevlop/Harry/font.html",
+		"/D/webDevlop/Harry/CssSelector.html",
+		"/D/webDevlop/Harry/boxmodel.html",
+		"/D/webDevlop/Harry/class.html",
+		"/D/webDevlop/Css_style.css/projectStyle.css",
+		"/D/webDevlop/JAVAscript/Js_cart.html",
+		"/D/webDevlop/JAVAscript/js_cart.html",
+		"/D/webDevlop/javaScript1/07_js_operator.html",
+		"/D/webDevlop/javaScript1/03_js_datatype2.html",
+		"/D/webDevlop/javaScript1/02_js_datatype.html",
+		"/D/webDevlop/javaScript1/04_js_datatype3.html",
+		"/D/webDevlop/javaScript1/06_js_datatype4.html",
+		"/D/webDevlop/javaScript1/08_js_operator1.html",
+		"/D/webDevlop/JAVAscript/05_js_Object.html",
+		"/D/webDevlop/JAVAscript/js_DOM2.html",
+		"/D/webDevlop/JAVAscript/js_Object.html",
+		"/D/webDevlop/JAVAscript/02_js_javaStorage.html",
+		"/D/webDevlop/Html/flex_Box.html",
+		"/D/webDevlop/Html/09_HTML_frame.html",
+		"/D/webDevlop/Html/08_HTML_Tables.html",
+		"/D/webDevlop/Html/06_HTML_AnchorTag.html",
+		"/D/webDevlop/Harry/01_index.html",
+		"/D/webDevlop/javaScript1/01_js_first.html",
+		"/D/webDevlop/Html/index3.html",
+		"/D/webDevlop/Bootstrap/03_bs_color",
+		"/D/java 11 am/constructor/A.java",
+		"/D/java 11 am/constructor/test3",
+		"/D/HTML/Html/flex_Box.html",
+		"/D/java 11 am/test1.java",
+		"/D/java 11 am/A.java",
+		"/D/HTML/Css_style.css/style_2.css",
+		"/D/HTML/Html/index3.html",
+		"/D/HTML/CSS/CSS_segmanticTag.html",
+		"/D/HTML/Html/frame five .html",
+		"/D/HTML/Html/imageCLass.html",
+		"/D/HTML/flipkart/image3.jpg",
+		"/D/HTML/Html/07_HTML_ImgTag.html",
+		"/D/HTML/Html/frame two.html",
+		"/D/HTML/flipkart/moon 1",
+		"/D/HTML/CSS/05_CSS t2.html",
+		"/D/java 11 am/Methods/E.java",
+		"/D/HTML/01 html demo/07.html",
+		"/D/HTML/01 html demo/02.html",
+		"/D/HTML/01 html demo/03.html",
+		"/D/HTML/01 html demo/01.html",
+		"/D/HTML/01 html demo/04.html",
+		"/D/HTML/01 html demo/05.html",
+		"/D/HTML/01 html demo/06.html",
+		"/C/Users/Hp/Desktop/JavaProgram/Jspider/Basic/B.java",
+		"/C/Users/Hp/Desktop/JavaProgram/Jspider/Basic/Var Args/Args1.java",
+		"/C/Users/Hp/Desktop/JavaProgram/Jspider/Basic/SumOfDigits.java",
+		"/D/A.java",
+		"/D/G.java",
+		"/D/html/01_html_demo",
+		"/D/java 11 am/conditional/electricitybill.java",
+		"/D/java 11 am/operators/H.java",
+		"/D/java 11 am/operators/E.java",
+		"/D/java 11 am/operators/D.java",
+		"/D/java 11 am/operators/C.java",
+		"/D/java 11 am/nonstatic var/ram.java",
+		"/D/java 11 am/nonstatic var/D.java",
+		"/D/java 11 am/nonstatic var/B.java",
+		"/D/java 11 am/nonstatic var/C.java",
+		"/D/java 11 am/raj.java",
+		"/D/java 11 am/D.java",
+		"/D/java 11 am/loops/factorial.java",
+		"/D/Javaprogram/two.java",
+		"/D/java 11 am/operators/EvenOrodd.java",
+		"/D/java 11 am/raj3.java",
+		"/D/java 11 am/raj2.java",
+		"/D/java 11 am/puja.java",
+		"/D/java 11 am/pooja.java",
+		"/D/java 11 am/poo.java",
+		"/D/java 11 am/M.java",
+		"/D/java 11 am/L.java"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 116.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Hp/AppData/Local/Temp/Rar$DI39.220/OrdersController.java",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2805,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 810.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 46.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "shopping_cart-20240315T145212Z-001 (1).sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Hp\\Desktop\\JavaProgram\\TEST\\Test1.java"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 277.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
